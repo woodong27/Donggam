@@ -310,7 +310,7 @@ C:.
 | 공정민 | 박진희 | 양불회 |
 | --- | --- | --- |
 | Front-End <br> 시간 페이지 구현 및 CSS <br> 전체 방명록 CSS <br> 쪽지 페이지 CSS <br> FE CI/CD 구축 및 SSL 적용 <br> 서기 | Front-End, UI/UX <br> 페이지 디자인 <br> 랜드마크 조회 및 등록 <br> 메인 페이지 구현 및 CSS <br> 주변 유저 쪽지 전송 구현 | Front-End <br> 카카오톡 소셜 로그인 <br> 일반 방명록 구현 및 CSS <br> 쪽지 페이지 구현 <br> 프로필 페이지 구현 <br> 지도 API  |
-| https://github.com/jeongmin59 |  | https://github.com/zzarru |
+| https://github.com/jeongmin59 | https://github.com/sokurii | https://github.com/zzarru |
 | 정현우 | 최동우(팀장👑) |  |
 | Full Stack <br> Stomp + SockJS 채팅 <br> 쪽지 및 채팅 API 제작 <br> PostGIS 공간 쿼리 적용 <br> 채팅방 페이지 css <br> 메인 페이지 구조 설정 및 css 적용 <br> 무한 스크롤 기능 구현 <br> CI/CD 구축 및 SSL 적용 | Full Stack <br> Firebase 푸시 알림 <br> Stomp+SockJS 채팅 <br> 채팅 페이지 기능 및 CSS <br> PostGIS 공간 쿼리 적용 <br> 스프링 시큐리티+JWT 카카오 소셜 로그인 <br> 메인, 시간, 공간페이지 API 제작 |  |
 | https://github.com/tunkcalb?tab=repositories | https://github.com/woodong27 |  |
