@@ -1,6 +1,6 @@
 # 동감(Ditto) ✨
 
-![동감](https://github.com/woodong27/Donggam/assets/122415763/dff0d1b0-1c11-4b85-94de-928c1cbba3a8)
+![동감](https://github.com/woodong27/Donggam/assets/122415763/fb06ef2d-7d2f-483e-933f-cacd84dc2af1)
 
 ## 🎀 프로젝트 소개
 
